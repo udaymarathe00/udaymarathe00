@@ -44,7 +44,7 @@ I turn raw data into clean, reliable datasets and clear, interactive dashboards.
 *Power BI · Power Query · DAX*
 - Cleaned and transformed 60K+ raw video game sales records and modelled them into 1 fact and 5 dimension tables
 - 3-page command-center dashboard with 17 DAX measures, 43 visuals, 9 slicers, and a Top 10 games leaderboard
-### 🍕 [Restaurant Sales Performance Dashboard](https://github.com/udaymarathe00/REPO-NAME-2)
+### 🍕 [Restaurant Sales Performance Dashboard](https://github.com/udaymarathe00/pizza-sales-powerbi-dashboard.git)
 *Power BI · DAX*
 - 3-page dashboard (Home, Best/Worst Sellers, Summary) with 43 visuals covering sales KPIs and top and bottom performing items
 - Modelled 48K+ order records into 1 fact and 3 dimension tables with 22 DAX measures and 12 calculated columns
