@@ -40,7 +40,7 @@ I turn raw data into clean, reliable datasets and clear, interactive dashboards.
  
 ## 📊 Featured Projects
  
-### 🎮 [Video Games Sales Analytics Dashboard](https://github.com/udaymarathe00/REPO-NAME-1)
+### 🎮 https://github.com/udaymarathe00/Video_Games_Dshboard.git
 *Power BI · Power Query · DAX*
 - Cleaned and transformed 60K+ raw video game sales records and modelled them into 1 fact and 5 dimension tables
 - 3-page command-center dashboard with 17 DAX measures, 43 visuals, 9 slicers, and a Top 10 games leaderboard
